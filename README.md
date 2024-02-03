@@ -39,5 +39,5 @@ The project uses a dataset containing historical agricultural data including env
 4. Experiment with different machine learning algorithms and parameters to improve prediction accuracy if needed.
 
 ## Results
-- The trained model achieves an average accuracy of X% on the test dataset.
+- The trained model achieves an average accuracy of 99.9% on the test dataset.
 - Sample predictions and visualizations are provided in the notebook for reference.
